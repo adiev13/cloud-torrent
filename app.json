@@ -1,7 +1,7 @@
 {
 	"name": "cloud-torrent",
-	"website": "https://github.com/jpillora/cloud-torrent",
-	"repository": "https://github.com/jpillora/cloud-torrent",
+	"website": "https://github.com/adiev13/arif/",
+	"repository": "https://github.com/adiev13/arif/",
 	"env": {
 		"TITLE": {
 			"description": "Optionally set the title of this instance (defaults to 'Cloud Torrent')",
